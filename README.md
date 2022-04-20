@@ -7,11 +7,11 @@ device and allow for a serial RS-232 communication up to 115,200 baud rate.
 
 ## RS-232 Pinout
 
-| # | Ref | Description                     | Wire color |
-|--:|-----|---------------------------------|------------|
-| 1 | GND | Ground connection               | Black      |
-| 2 | RXD | Receive (RS-232)                | Yellow     |
-| 3 | TXD | Transmit (RS-232)               | Orange     |
+| # | Ref | Description                     |
+|--:|-----|---------------------------------|
+| 1 | RXD | Receive (RS-232)                |
+| 2 | GND | Ground connection               |
+| 3 | TXD | Transmit (RS-232)               |
 
 PS: Colors are just a suggestion and it's not necessary to have them match the
 table.

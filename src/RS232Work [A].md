@@ -10,7 +10,7 @@
 |  1 | J JST XH Vertical (3w)                    | J1      | 455-2248-ND                |
 |  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                 |
 |  2 | R 1K 0.125W (0805)                        | R1-R2   | RMCF0805FT1K00CT-ND        |
-|  2 | R 5.1K 0.125W (0805)                      | R3-R4   | RMCF0805FT5K10CT-ND        |
+|  1 | R 5.1K 0.125W (0805)                      | R3      | RMCF0805FT5K10CT-ND        |
 |  1 | U MCP2221 (SOIC-14)                       | U1      | MCP2221-I/SL-ND            |
 |  1 | U MAX232IDR (SOIC-16)                     | U2      | 296-26141-1-ND             |
 |  2 | H Screw M2x4mm                            | -       | -                          |

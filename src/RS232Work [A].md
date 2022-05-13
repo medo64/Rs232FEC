@@ -13,7 +13,7 @@
 |  1 | R 5.1K 0.125W (0805)                      | R3      | RMCF0805FT5K10CT-ND        |
 |  1 | U MCP2221 (SOIC-14)                       | U1      | MCP2221-I/SL-ND            |
 |  1 | U MAX232IDR (SOIC-16)                     | U2      | 296-26141-1-ND             |
-|  2 | H Screw M2x4mm                            | -       | -                          |
+|  2 | H Screw M2x3mm                            | -       | -                          |
 
 
 #### Board Size

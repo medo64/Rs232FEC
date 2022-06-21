@@ -1,5 +1,5 @@
-[RS232Work](https://medo64.com/rs232work/)
-==========================================
+[RS-232 Framework Expansion Card](https://medo64.com/rs232framecard/)
+=====================================================================
 
 This Framework laptop expansion card will show up on your system as a serial
 device and allow for a serial RS-232 communication up to 115,200 baud rate.

@@ -1,4 +1,4 @@
-### RS232Work Parts
+### RS-232 Framework Expansion Card Parts
 
 |  # | Part                                      | RefDes  | Preferred Part Number      |
 |---:|-------------------------------------------|---------|----------------------------|

@@ -1015,7 +1015,7 @@
         (effects (font (size 0.8 0.6) (thickness 0.15)) (justify mirror))
       (tstamp fb946c27-3514-4bb2-83f8-984212ce1fc3)
     )
-    (fp_text value "SM12T1G" (at 0 -2.2) (layer "B.SilkS") hide
+    (fp_text value "PESD12VL2BT" (at 0 -2.2) (layer "B.SilkS") hide
         (effects (font (size 0.8 0.6) (thickness 0.15)) (justify mirror))
       (tstamp 01ec0e73-af02-45b5-89be-b2e3fba8b7f6)
     )

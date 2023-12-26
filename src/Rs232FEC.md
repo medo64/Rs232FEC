@@ -12,8 +12,9 @@
 |  1 | L Ferrite 600R@100Mhz                     | L1      | 240-2390-1-ND              |
 |  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                 |
 |  1 | Q P-MOSFET DMP3099L-13 (SOT23)            | Q1      | DMP3099L-13DICT-ND         |
-|  3 | R 1K 0.125W (0805)                        | R1-R2   | RMCF0805FT1K00CT-ND        |
-|  1 | R 5.1K 0.125W (0805)                      | R3      | RMCF0805FT5K10CT-ND        |
+|  3 | R 1K 0.125W (0805)                        | R1-R3   | RMCF0805FT1K00CT-ND        |
+|  1 | R 5.1K 0.125W (0805)                      | R4      | RMCF0805FT5K10CT-ND        |
+|  1 | R 10K 0.125W (0805)                       | R5      | RMCF0805FT10K0CT-ND        |
 |  1 | U FT232R (SSOP-28)                        | U1      | 768-FT232RNL-TUBE-ND       |
 |  1 | U MAX232IDR (SOIC-16)                     | U2      | 296-26141-1-ND             |
 |  2 | H Screw M2x3mm                            | -       | -                          |

@@ -6,9 +6,9 @@
 |  4 | C 100nF X7R 16V (0805)                    | C2-C5   | 478-5311-1-ND              |
 |  5 | C 1uF X7R 16V (0805)                      | C6-C10  | 1276-6471-1-ND             |
 |  1 | C 4.7uF X5R 16V (0805)                    | C11     | 1276-1244-1-ND             |
-|  1 | D TVS 12V PESD12VL2BT (SOT23-3)           | D1      | 1727-3809-1-ND             |
+|  2 | D TVS 12V PESD12VL2BT (SOT23-3)           | D1-D2   | 1727-3809-1-ND             |
 |  2 | DS LED (0805)                             | DS1-DS2 | 475-1415-1-ND              |
-|  1 | J JST XH Vertical (3w)                    | J1      | 455-2248-ND                |
+|  1 | J JST XH Vertical (5w)                    | J1      | 455-B5B-XH-A-ND            |
 |  1 | L Ferrite 600R@100Mhz                     | L1      | 240-2390-1-ND              |
 |  1 | P USB C, plug, straddle 0.8mm             | P1      | WM12855-ND                 |
 |  1 | Q P-MOSFET DMP3099L-13 (SOT23)            | Q1      | DMP3099L-13DICT-ND         |

@@ -7,15 +7,17 @@ device and allow for a serial RS-232 communication up to 115,200 baud rate.
 
 ## RS-232 Pinout
 
-To connect to this board, one has to use a 3-pin JST XH connector. The following
+To connect to this board, one has to use a 5-pin JST XH connector. The following
 table represents the pinout, pin 1 being on the left as looking into the
 expansion card.
 
 | # | Ref | Description                     |
 |--:|:---:|---------------------------------|
-| 1 | RXD | Receive                         |
-| 2 | GND | Ground connection               |
-| 3 | TXD | Transmit                        |
+| 1 | CTS | Clear-to-send                   |
+| 2 | RXD | Receive data                    |
+| 3 | GND | Ground connection               |
+| 4 | TXD | Transmit data                   |
+| 5 | RTS | Ready-to-send                   |
 
 As power consumption is low, wires can be almost any AWG. I would recommend
 using 24 AWG wire 0.25 mm² as they allow for greater compatibility with other

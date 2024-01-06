@@ -11,13 +11,13 @@ To connect to this board, one has to use a 5-pin JST XH connector. The following
 table represents the pinout, pin 1 being on the left as looking into the
 expansion card.
 
-| # | Ref | Description                     |
-|--:|:---:|---------------------------------|
-| 1 | CTS | Clear-to-send                   |
-| 2 | RXD | Receive data                    |
-| 3 | GND | Ground connection               |
-| 4 | TXD | Transmit data                   |
-| 5 | RTS | Ready-to-send                   |
+| # | Ref | Description                     | DB9 |
+|--:|:---:|---------------------------------|----:|
+| 1 | CTS | Clear-to-send                   |  8  |
+| 2 | RXD | Receive data                    |  2  |
+| 3 | GND | Ground connection               |  5  |
+| 4 | TXD | Transmit data                   |  3  |
+| 5 | RTS | Ready-to-send                   |  7  |
 
 As power consumption is low, wires can be almost any AWG. I would recommend
 using 24 AWG wire 0.25 mm² as they allow for greater compatibility with other

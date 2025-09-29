@@ -2773,7 +2773,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "bc8ea66d-6ebd-4a09-801b-fcbfd5919eb6")
+			(uuid "f1b9a966-cb8b-4466-8c1b-bd25c2444bf5")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -2784,7 +2784,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "c797d6a8-6bd3-4e8b-ada8-5012a0e3252a")
+			(uuid "4c40b932-ceb5-4364-884b-c464b7286577")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -2795,7 +2795,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "b0da95ca-1ada-4295-a156-0bb8a2c5dd4b")
+			(uuid "11ccdf2a-ba40-4f28-976d-39c0ba06f1cb")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -2806,7 +2806,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "7601e9ec-423f-4105-8b30-4df06c0ef4e5")
+			(uuid "2a591590-dec8-4a39-9854-ed68e4f59e25")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 270)
@@ -2827,7 +2827,7 @@
 			(uuid "4a76e0cf-667d-46f9-ae16-299aed663085")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2903,7 +2903,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "3a858164-300a-4fff-ae4a-0573b5968b62")
+			(uuid "c647e467-2da6-45cf-9be3-18e924b727ef")
 		)
 		(fp_arc
 			(start -0.15 -0.6)
@@ -2914,7 +2914,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "a084cce4-fbe4-4eec-9e00-d581920f00c5")
+			(uuid "cb6d27ac-7155-4231-a171-d7d9e131f1bb")
 		)
 		(fp_arc
 			(start -0.15 0)
@@ -2925,7 +2925,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "acfb3166-d951-44d2-919b-36bc5a708b1d")
+			(uuid "ce2c9aa1-692e-439d-a248-0c212abf93b6")
 		)
 		(fp_rect
 			(start -1.7 1)
@@ -2936,7 +2936,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "81acddd6-1734-46d4-a0aa-d1522355ffba")
+			(uuid "7de6b56c-3523-4e79-9f84-1bb75be1c8ce")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -2947,7 +2947,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "42b180aa-649a-4a9a-ba4b-73d71ad8fa65")
+			(uuid "48f588ae-4d73-4d2a-8ece-613441cc2b22")
 		)
 		(pad "1" smd roundrect
 			(at -0.85 0 90)
@@ -2968,7 +2968,7 @@
 			(uuid "fb2f1eb8-6f66-497c-8189-80d54651f20c")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Inductor_SMD.3dshapes/L_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3045,7 +3045,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "6fd9bd88-3dc0-4d18-a410-f3a8871b5085")
+			(uuid "0c37a73b-8684-40c2-85ae-ea8bb34cbc60")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -3056,7 +3056,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "b975259a-219d-4082-a996-2f552a163469")
+			(uuid "da626acd-2b27-444b-a16c-6975d27ae2e9")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -3067,7 +3067,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "e5b6ea4f-bdd4-4f4a-8e1c-f24455b55138")
+			(uuid "a987a375-1226-4170-a6cf-baf269482a4a")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -3078,7 +3078,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "85ae37c2-b01e-491c-bec7-d57fec29b403")
+			(uuid "96f2bc51-3904-421e-8d6f-99ba893db622")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 90)
@@ -3099,7 +3099,7 @@
 			(uuid "059f7912-b2aa-4304-81a1-9608cc7c96e7")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3367,7 +3367,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "66947139-88d3-4796-a6aa-2dbba7cd1ed7")
+			(uuid "62565f2e-9651-44ea-91b1-8fb223ae0644")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -3378,7 +3378,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "a5322fb2-1bef-472b-8399-81065c7fb783")
+			(uuid "7c7c65d5-5e9d-4de7-a76e-325ef7361653")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -3389,7 +3389,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "ad673f16-b8e8-4028-8a78-47633ccc96bb")
+			(uuid "04769be1-ec84-4a4a-bdc4-06a99da3011d")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -3400,7 +3400,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "cc12435d-8b98-4446-8cd0-105ed0f872a7")
+			(uuid "d43f0def-c9df-4ca7-a3c0-e84f3e8c838a")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 90)
@@ -3421,7 +3421,7 @@
 			(uuid "cf5df496-e4f2-411f-839c-35215a33326b")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3437,7 +3437,7 @@
 		(layer "B.Cu")
 		(uuid "554c6a82-8ef5-4dea-bd05-1aa021748734")
 		(at 41.7 46.5)
-		(descr "LEDC2013X120N")
+		(tags "LEDC2013X120N")
 		(property "Reference" "DS2"
 			(at 0 1.5 0)
 			(layer "B.Fab")
@@ -3499,7 +3499,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "a70b90e4-8e7b-46e8-accc-d1c79294cc0c")
+			(uuid "c9fc7a44-a58d-44e9-928f-c3106d90ac39")
 		)
 		(fp_poly
 			(pts
@@ -3511,7 +3511,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "62aa409c-e493-4128-a782-c970d9a1047e")
+			(uuid "3e88dc13-b292-4aab-b9d4-32d366097f6d")
 		)
 		(fp_rect
 			(start -1.65 0.95)
@@ -3522,7 +3522,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "0d56126e-dea9-41fa-b9b9-41ade5ecc007")
+			(uuid "2f4205c8-36de-4f7d-84a0-747e5ac337ef")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -3533,7 +3533,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "e35a3659-ae2c-4577-ba0b-521542fec5cf")
+			(uuid "6e835f24-d2e8-485b-b50f-da7f6927565b")
 		)
 		(fp_text user "C"
 			(at -0.35 0.5 0)
@@ -3568,7 +3568,7 @@
 			(uuid "e7c82087-8899-49c5-8e02-902ff2553f89")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:LED_SMD.3dshapes/LED_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3923,7 +3923,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "dd835317-a8f9-4034-a88c-b9fa3c4c0179")
+			(uuid "4207a565-b6a7-4188-b597-0f1b90d0768d")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -3934,7 +3934,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "ba84e435-d12a-4e87-aa34-abf41cbab1ea")
+			(uuid "d01fd8ef-ecdf-4885-9eda-206718de233d")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -3945,7 +3945,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "c121ed5f-4e5b-4a43-a90d-4a05b359ae71")
+			(uuid "2f595e4e-7e9c-43a9-bd0d-11847477c381")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -3956,7 +3956,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "da466beb-ac0c-45eb-9992-3f779df0784d")
+			(uuid "667dbb52-8c98-4560-993d-8bee78247860")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 90)
@@ -3977,7 +3977,7 @@
 			(uuid "f02c6f1b-5cac-4cb8-9dcd-acd304b162e3")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4054,7 +4054,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "49caf536-2178-49a9-9ccd-72a65908661a")
+			(uuid "a01842cd-9533-47c0-8745-36e398ad6b0b")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -4065,7 +4065,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "b7cd8197-3981-4533-83ea-04d7a599bd7d")
+			(uuid "e588ae77-925b-4385-af47-e4608252e505")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -4076,7 +4076,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "4f9d8c9b-f020-49ce-b4c8-104b06cb996e")
+			(uuid "93590c96-58e4-4f04-b43c-5f0ada1f9f9c")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -4087,7 +4087,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "464b18be-0c0f-4bc4-bd3a-b4805afd8909")
+			(uuid "3eb0ee1f-c817-4de1-9a2f-9d57acd48e3b")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 90)
@@ -4108,7 +4108,7 @@
 			(uuid "eb8b6c52-79c8-48d2-ae32-7e84f7694856")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4185,7 +4185,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "20d694ed-2caf-4df9-9286-45b8fe49e4fd")
+			(uuid "56424a4c-7c61-43bc-b325-84d7c051c99b")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -4196,7 +4196,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "e70de855-c78f-4615-8102-ebf6fdc04d97")
+			(uuid "fbc915f4-64c3-45b3-987f-3a0733ad2126")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -4207,7 +4207,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "212d47de-460a-426b-8948-560d0f93d84c")
+			(uuid "dc85f0d5-194e-4075-a97f-10b64b0d5fdb")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -4218,7 +4218,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "0cbb5535-dac1-4183-9b98-7cde1f8573cd")
+			(uuid "9343ee72-15e0-46c7-89d0-6c899c43a899")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 90)
@@ -4239,7 +4239,7 @@
 			(uuid "3f435c9d-a5e3-4321-91bd-d825fec376c7")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4646,7 +4646,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "c3192c8b-0826-4f3b-ad25-f4e7befb7315")
+			(uuid "fa2e35db-60ae-4f4f-8a0d-aee2e90d3931")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -4657,7 +4657,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "30c1397c-977e-4802-9310-21bb8c2814bf")
+			(uuid "fbbdd8f3-67d8-4477-a363-346eab4a4486")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -4668,7 +4668,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "9f8c0902-a131-474e-8cd1-4b08c33af353")
+			(uuid "9d1f69de-0510-4f7a-8f87-2c1b946b0b24")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -4679,7 +4679,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "b0b32c13-be69-4dc8-9bec-44c70b94daa1")
+			(uuid "cc377cdc-b225-4e39-8a13-1617df29e452")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 270)
@@ -4700,7 +4700,7 @@
 			(uuid "61dd7ebe-31e4-413c-9ff3-ff27d6f4d3ad")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4777,7 +4777,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "b86a693b-27c6-405f-af65-7e138759f96d")
+			(uuid "8f6b3b85-11c7-4700-b184-7b20848adde4")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -4788,7 +4788,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "b89ecef4-a41f-42b3-a66f-fad129d63af5")
+			(uuid "f39ae76d-5797-4089-9b1d-7383e6d4610a")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -4799,7 +4799,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "233a0b6a-f6a6-447b-89a3-a0d2fce275b4")
+			(uuid "f8597de8-75c2-4db1-8150-c0f6ca5c40c3")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -4810,7 +4810,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "3b067f76-77bd-4e20-85ec-75732aae5809")
+			(uuid "4d29fbe7-a030-4745-ab02-d9b30d432c9f")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 90)
@@ -4831,7 +4831,7 @@
 			(uuid "73056e48-1f83-4353-811f-00d4dd91f953")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4908,7 +4908,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "8851a784-0ea1-4561-97ab-5e0a2dbdd31e")
+			(uuid "83217c7a-a402-4c34-9478-14904da34a62")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -4919,7 +4919,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "6181127f-4106-49b7-9f10-c599f711b1a5")
+			(uuid "b5180619-6eb8-41e6-9477-ec7966483c4a")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -4930,7 +4930,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "f292f7ed-f6c4-47e4-8100-b7ff15fdc3a5")
+			(uuid "ebc6fe2e-424e-49f4-b4b3-37b3c5e71ab0")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -4941,7 +4941,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "de5dd35e-9eaf-4c6f-ad16-eb58abfa3153")
+			(uuid "edeb0b1f-ceaf-4549-a34b-ede09bc08fcf")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 90)
@@ -4962,7 +4962,7 @@
 			(uuid "40db5e05-9810-4d5d-b3d9-e858b62d24a3")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5165,7 +5165,7 @@
 		(layer "B.Cu")
 		(uuid "c4cb9d79-73c5-47ea-b4c4-7d5134c4e356")
 		(at 22.3 46.5)
-		(descr "LEDC2013X120N")
+		(tags "LEDC2013X120N")
 		(property "Reference" "DS1"
 			(at 0 1.5 0)
 			(layer "B.Fab")
@@ -5227,7 +5227,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "47663dfe-d2f8-4ebd-8b5e-3d9c472b3354")
+			(uuid "da66717e-d272-4cc2-91cc-3b67fe8317d9")
 		)
 		(fp_poly
 			(pts
@@ -5239,7 +5239,7 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(uuid "8a115866-3177-4b41-95ba-5065d50ba95f")
+			(uuid "55cc5fbd-f965-4d9c-b7f3-328f684b2d9f")
 		)
 		(fp_rect
 			(start -1.65 0.95)
@@ -5250,7 +5250,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "b868b7e2-5aee-43e8-802c-5718e0991061")
+			(uuid "57d2b8d4-1dab-4c88-a573-7d04f0055b25")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -5261,7 +5261,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "506fc28e-9c20-4a6d-bcb6-23a65b452b1f")
+			(uuid "01d35f16-6153-4fab-bbb1-00bc2f2bfeba")
 		)
 		(fp_text user "C"
 			(at -0.35 0.5 0)
@@ -5296,7 +5296,7 @@
 			(uuid "286f71f5-3c47-4c0b-bbdb-69a54ee54f65")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:LED_SMD.3dshapes/LED_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5512,7 +5512,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "f8a77dd0-1e66-4ea5-a91a-323040ee195a")
+			(uuid "d34ccb53-a9bf-40db-b3bd-29a44cebe102")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -5523,7 +5523,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "5c385396-1ce7-48eb-88e2-a3ce5f6ab63a")
+			(uuid "587a4dd0-ce1a-4be6-8b30-6e52777c125f")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -5534,7 +5534,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "bd958caf-a077-4698-9223-460986bab6f1")
+			(uuid "3793c2a5-f8db-41eb-a4c7-0f4113bbdfbb")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -5545,7 +5545,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "bdb7b4bc-6bcd-49eb-aff2-95d0aa39b1cb")
+			(uuid "d81c16fb-1137-4630-b9e2-318ee4247d29")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 270)
@@ -5566,7 +5566,7 @@
 			(uuid "23aaccfc-242b-4a7a-911e-1c77efef8948")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5643,7 +5643,7 @@
 				(type default)
 			)
 			(layer "B.SilkS")
-			(uuid "5a1b4e65-4910-4881-9b54-69e6408fae78")
+			(uuid "4abe1fbe-fb3c-434b-b24a-2013e20d5f37")
 		)
 		(fp_rect
 			(start -1.65 0.9)
@@ -5654,7 +5654,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "aa7a2dd7-9b45-4981-8a97-570487620677")
+			(uuid "80d82596-ca9a-4128-b5bf-0ac56e9ea030")
 		)
 		(fp_rect
 			(start -1.75 1)
@@ -5665,7 +5665,7 @@
 			)
 			(fill no)
 			(layer "B.CrtYd")
-			(uuid "80841ddc-f074-4252-8c9c-190c5f8eda0a")
+			(uuid "2860fb7c-b52a-400d-ba75-d7fa01b057fa")
 		)
 		(fp_rect
 			(start -1 0.625)
@@ -5676,7 +5676,7 @@
 			)
 			(fill no)
 			(layer "B.Fab")
-			(uuid "28aa5250-448e-4762-bf9a-7c42f96dad20")
+			(uuid "d3cb3781-953a-419f-b2d0-38d259dcc0b6")
 		)
 		(pad "1" smd roundrect
 			(at -0.9 0 90)
@@ -5697,7 +5697,7 @@
 			(uuid "aa8b622e-5c60-48eb-8d85-764577ae1f04")
 		)
 		(embedded_fonts no)
-		(model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
